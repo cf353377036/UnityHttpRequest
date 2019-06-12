@@ -1,0 +1,18 @@
+﻿<Properties StartupItem="HttpManager/HttpManager.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HttpManager/HttpRequestDelete.cs">
+    <Files>
+      <File FileName="HttpManager/HttpRequestPut.cs" Line="1" Column="1" />
+      <File FileName="HttpManager/HttpRequestPost.cs" Line="110" Column="7" />
+      <File FileName="HttpManager/HttpBase.cs" Line="1" Column="1" />
+      <File FileName="HttpManager/HttpRequestBase.cs" Line="1" Column="1" />
+      <File FileName="HttpManager/HttpRequestDelete.cs" Line="1" Column="1" />
+      <File FileName="HttpManager/HttpRequestGet.cs" Line="1" Column="1" />
+      <File FileName="HttpManager/HttpData.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
